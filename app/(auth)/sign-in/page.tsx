@@ -1,6 +1,6 @@
 import React from "react";
 
-const SignIn = async () => {
+const SignIn = () => {
   return <div>SignIn</div>;
 };
 
